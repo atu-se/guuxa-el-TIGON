@@ -13,3 +13,19 @@
 5. What changes did you make to finish this assignment?
 
 6. What resources did you use to complete this assignemnt?  Make a Markdown list of web links below.
+
+## Answers
+
+1. becouse server / client don't care the buffer size of the client / server .
+
+2. the message divides into letters.
+
+3. ConnectionRefusedError happens.
+
+4. OSError happens.
+
+5. 3 changes in server.py 1= running while loop from accepting from the connection and added if in for the password 
+   and replacing if to elif.
+  
+6. net-information url: 'http://net-informations.com/python/net/socket.htm'.
+   realpython url: 'https://realpython.com/python-sockets/'.   
