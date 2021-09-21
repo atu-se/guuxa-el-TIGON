@@ -16,9 +16,9 @@
 
 ## Answers
 
-1. becouse server / client don't care the buffer size of the client / server .
+1. server / client don't care the buffer size of the client / server .
 
-2. the message divides into letters.
+2. the message divides letter by letter.
 
 3. ConnectionRefusedError happens.
 
